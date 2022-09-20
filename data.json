@@ -1,0 +1,53 @@
+[
+    {
+        "First Name":"Rohit",
+        "Middle Name":"kumar",
+        "Last Name":"yadav",
+        "Email":"rohitkito@source.com",
+        "Phone Number":8210822723,
+        "Role":"engineer",
+        "Address":"Sonpur,Bihar",
+        "User Created Date":"29 June 2022 Time: 12:18"
+    },
+    {
+        "First Name":"suresh",
+        "Middle Name":"",
+        "Last Name":"Chaudhary",
+        "Email":"suresh@source.com",
+        "Phone Number":95046914059,
+        "Role":"Dancer",
+        "Address":"jaipur,Rajashthan",
+        "User Created Date":"29 July 2022 Time: 12:18"
+    },
+    {
+        "First Name":"Rupesh",
+        "Middle Name":"kumar",
+        "Last Name":"chandra",
+        "Email":"rupeshyadav@source.com",
+        "Phone Number":80836045676,
+        "Role":"Anchor",
+        "Address":"Delhi",
+        "User Created Date":"19 June 2021 Time: 11:18"
+    },
+    {
+        "First Name":"Raju",
+        "Middle Name":"kumar",
+        "Last Name":"yadav",
+        "Email":"raju9234k@source.com",
+        "Phone Number":9238567890,
+        "Role":"student",
+        "Address":"Bhagalpur,Bihar",
+        "User Created Date":"9 June 2022 Time: 1:18"
+    },
+    {
+        "First Name":"kamlesh",
+        "Middle Name":"",
+        "Last Name":"sirvi",
+        "Email":"kamlesh8907@source.com",
+        "Phone Number":9631429078,
+        "Role":"Developer",
+        "Address":"Patna,Bihar",
+        "User Created Date":"11 March 2022 Time: 10:25"
+    }
+]
+
